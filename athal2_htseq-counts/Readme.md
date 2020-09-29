@@ -1,0 +1,9 @@
+# Here are the quantification files produced with HTSeq Tool.
+# Approach: quantification with genome reference (Araport11 / TAIR10 Genome).
+# Transcriptomes included: 12 RNASeq datasets sequences in Illumina platforms
+#                           Bulk-data was downloaded from SRA/NCBI.
+#                           File names correspond with the accesion name in the SRA. 
+# Experimental design: Infected sample with ascomycete fungi, RNAm extracted from leaves in an interval among 0 to 48 hrs. 
+
+# Bulk-data was processed by Cynthia SC on Sep 2020
+# Data analysis was performed by Cynthia SC on Sep 2020
