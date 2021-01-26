@@ -1,0 +1,21 @@
+sample,fungus,project,hpi,ID,spots_seq,spots_seq_Gpb,spots_keep%,spots_aligned%,good-aligned,genes-count,genes-ceros
+SRR10586397pe,Botrytis cinerea,2,24,Bc24,22243555,22.24,95.53,89.07,1,,5627
+SRR10586399pe,Botrytis cinerea,2,24,Bc24,22012986,22.01,95.7,88.69,1,,5703
+SRR3383696,Botrytis cinerea,1,12,Bc12,12135587,12.14,100,98.2,1,,7518
+SRR3383697,Botrytis cinerea,1,12,Bc12,14996178,15,100,98.14,1,,7375
+SRR3383779,Botrytis cinerea,1,18,Bc18,10342352,10.34,97.37,93.55,1,,7719
+SRR3383780,Botrytis cinerea,1,18,Bc18,13600781,13.6,97.26,95.2,1,,7549
+SRR364389,Colletotrichum higginsianum,3,22,Ch22,12614399,12.61,92.12,87.17,1,,7164
+SRR364390,Colletotrichum higginsianum,3,22,Ch22,12429076,12.43,92.08,87.29,1,,7229
+SRR364398,Colletotrichum higginsianum,3,40,Ch40,13190152,13.19,92.55,80.25,1,,7117
+SRR364399,Colletotrichum higginsianum,3,40,Ch40,13177315,13.18,92.73,80.25,1,,7090
+SRR6283147,Sclerotinia sclerotiorum,4,30,Ss30,20890053,20.89,96.09,32.35,0,,10600
+SRR6283148,Sclerotinia sclerotiorum,4,30,Ss30,21203024,21.2,92.9,29.5,0,,10866
+SRR3383640,healthy12,,12,healthy12,10943974,10.94,97.12,98.31,1,,
+SRR3383641,healthy12,,12,healthy12,22575433,22.58,97.5,98.34,1,,
+SRR3383782,healthy18,1,18,healthy18,29779380,29.78,97.62,98.13,1,,
+SRR3383783,healthy18,1,18,healthy18,14154575,14.15,97.69,98.34,1,,
+SRR3383821,healthy24,,24,healthy24,15085586,15.09,97.18,98.09,1,,
+SRR3383822,healthy24,,24,healthy24,10222208,10.22,95.98,97.87,1,,
+SRR6283144,healthy30,4,30,healthy30,22122235,22.12,95.31,97.51,1,,
+SRR6283145,healthy30,4,30,healthy30,19661090,19.66,95.72,97.99,1,,

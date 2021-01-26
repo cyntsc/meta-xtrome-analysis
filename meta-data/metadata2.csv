@@ -1,0 +1,21 @@
+ID,sample,fungus,Enfermedad,hpi,Bioproject,Owner,Country,PMC(PMCID),PubMed (PMID),spots_seq,spots_seq_Gpb,spots_keep%,spots_aligned%,good-aligned,genes-ceros
+Bc24,SRR10586397pe,Botrytis cinerea,Moho gris,24,PRJNA593073,Beijing normal university ,"Beijing, China",NA,NA,22243555,22.24,95.53,89.07,1,5627
+Bc24,SRR10586399pe,Botrytis cinerea,Moho gris,24,PRJNA593073,Beijing normal university ,"Beijing, China",NA,NA,22012986,22.01,95.70,88.69,1,5703
+Bc12,SRR3383696,Botrytis cinerea,Moho gris,12,PRJNA315516,Utrecht Universiteit,"Utrecht, Países Bajos",NA,NA,12135587,12.14,100.00,98.2,1,7518
+Bc12,SRR3383697,Botrytis cinerea,Moho gris,12,PRJNA315516,Utrecht Universiteit,"Utrecht, Países Bajos",NA,NA,14996178,15.00,100.00,98.14,1,7375
+Bc18,SRR3383779,Botrytis cinerea,Moho gris,18,PRJNA315516,Utrecht Universiteit,"Utrecht, Países Bajos",NA,NA,10342352,10.34,97.37,93.55,1,7719
+Bc18,SRR3383780,Botrytis cinerea,Moho gris,18,PRJNA315516,Utrecht Universiteit,"Utrecht, Países Bajos",NA,NA,13600781,13.60,97.26,95.2,1,7549
+Ch22,SRR364389,Colletotrichum higginsianum,Mancha foliar,22,PRJNA148307,Max Planck Institute,Germany,PMC5942036,22885923,12614399,12.61,92.12,87.17,1,7164
+Ch22,SRR364390,Colletotrichum higginsianum,Mancha foliar,22,PRJNA148307,Max Planck Institute,Germany,PMC5942036,22885924,12429076,12.43,92.08,87.29,1,7229
+Ch40,SRR364398,Colletotrichum higginsianum,Mancha foliar,40,PRJNA148307,Max Planck Institute,Germany,PMC5942036,22885925,13190152,13.19,92.55,80.25,1,7117
+Ch40,SRR364399,Colletotrichum higginsianum,Mancha foliar,40,PRJNA148307,Max Planck Institute,Germany,PMC5942036,22885926,13177315,13.18,92.73,80.25,1,7090
+Ss30,SRR6283147,Sclerotinia sclerotiorum,Podredumbre blanca,30,PRJNA418121,LIPM & INRA,France,PMC6386666; PMC5757927,NA,20890053,20.89,96.09,32.35,0,10600
+Ss30,SRR6283148,Sclerotinia sclerotiorum,Podredumbre blanca,30,PRJNA418121,LIPM & INRA,France,PMC6386666; PMC5757927,NA,21203024,21.20,92.90,29.5,0,10866
+healthy12,SRR3383640,control,sana,12,PRJNA315516,Utrecht Universiteit,"Utrecht, Países Bajos",NA,NA,10943974,10.94,97.12,98.31,1,7396
+healthy12,SRR3383641,control,sana,12,PRJNA315516,Utrecht Universiteit,"Utrecht, Países Bajos",NA,NA,22575433,22.58,97.50,98.34,1,7039
+healthy18,SRR3383782,control,sana,18,PRJNA315516,Utrecht Universiteit,"Utrecht, Países Bajos",NA,NA,29779380,29.78,97.62,98.13,1,7702
+healthy18,SRR3383783,control,sana,18,	PRJNA315516,Utrecht Universiteit,"Utrecht, Países Bajos",NA,NA,14154575,14.15,97.69,98.34,1,7627
+healthy24,SRR3383821,control,sana,24,PRJNA315516,Utrecht Universiteit,"Utrecht, Países Bajos",NA,NA,15085586,15.09,97.18,98.09,1,7360
+healthy24,SRR3383822,control,sana,24,PRJNA315516,Utrecht Universiteit,"Utrecht, Países Bajos",NA,NA,10222208,10.22,95.98,97.87,1,7702
+healthy30,SRR6283144,control,sana,30,PRJNA418121,LIPM & INRA,France,PMC6386666; PMC5757927,NA,22122235,22.12,95.31,97.51,1,7700
+healthy30,SRR6283145,control,sana,30,PRJNA418121,LIPM & INRA,France,PMC6386666; PMC5757927,NA,19661090,19.66,95.72,97.99,1,7688
